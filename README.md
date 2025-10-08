@@ -1,13 +1,13 @@
 # 📌 Proyecto: Página de Login Responsive
 
 Este proyecto consiste en la creación de una página de **Login** basada en un diseño de referencia.  
-El desarrollo se realizó utilizando **HTML5, CSS3 y Media Queries**, asegurando que el diseño sea **responsive** y se adapte a distintos dispositivos: **escritorio, tablet y móvil**.  
+El desarrollo se realizó utilizando **HTML5, CSS y Media Queries**, asegurando que el diseño sea **responsive** y se adapte a distintos dispositivos: **escritorio, tablet y móvil**.  
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 - **HTML5** → Para la estructura de la página.  
-- **CSS3 (Flexbox & Grid)** → Para los estilos y la organización de los elementos.  
+- **CSS (Flexbox & Grid)** → Para los estilos y la organización de los elementos.  
 - **Media Queries** → Para hacer el diseño adaptativo según el tamaño de pantalla.  
 
 ---
@@ -29,8 +29,6 @@ El desarrollo se realizó utilizando **HTML5, CSS3 y Media Queries**, asegurando
 
 ### 📱 Móvil
 - Solo se muestra el formulario centrado para mayor legibilidad.  
-
-*(Puedes agregar una captura de pantalla aquí si deseas)*  
 
 ---
 
